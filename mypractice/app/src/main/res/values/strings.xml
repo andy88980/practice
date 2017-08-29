@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HEMS</string>
+    <string name="home">Home</string>
+    <string name="students">Students</string>
+    <string name="account">Account</string>
+    <string name="contact">Contact</string>
+    <string name="favorite">Favorite</string>
+</resources>
